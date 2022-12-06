@@ -1,0 +1,20 @@
+{
+  "name": "azael_lib-userprofiles",
+  "version": "1.0.0",
+  "description": "FiveM - Get Discord or Steam User Profiles",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azael-Dev/azael_lib-userprofiles.git"
+  },
+  "author": "Azael Dev <contact@azael.dev> (https://www.azael.dev/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Azael-Dev/azael_lib-userprofiles/issues"
+  },
+  "homepage": "https://github.com/Azael-Dev/azael_lib-userprofiles#readme",
+  "dependencies": {
+    "axios": "^1.2.0",
+    "steamhex": "^0.0.1"
+  }
+}
